@@ -6,5 +6,6 @@ The trained file and the training data can be accessed through files.txt
 ## Result 
 Input  
 ![image](https://user-images.githubusercontent.com/39853288/150099359-78daf930-7b5a-48fe-bf31-2fbf7a7174cb.png)
-Output  
+
+Output   
 ![image](https://user-images.githubusercontent.com/39853288/150097619-3ee014bd-998f-4fe3-8145-594581ab5c99.png)
