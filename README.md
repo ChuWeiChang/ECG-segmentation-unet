@@ -1,6 +1,7 @@
 # ECG-segmentation-unet
 This is a program used to segment QRS wave from a given electrocardiography.  
 The trained file and the training data can be accessed through files.txt
+
 split.py can be used to seperate waves
 calc_pulses.py is used to calculate the pulse rates
 ## unet structure
